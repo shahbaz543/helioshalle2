@@ -1,0 +1,242 @@
+{
+  "posts": [
+  {
+    "id": 450,
+    "ParentId": 2,
+    "Name": "Halle 9"
+  },
+  {
+    "id": 434,
+    "ParentId": 433,
+    "Name": "Halle 9"
+  },
+  {
+    "id": 373,
+    "ParentId": 2,
+    "Name": "Halle 9"
+  },
+  {
+    "id": 388,
+    "ParentId": 2,
+    "Name": "Halle 9"
+  },
+  {
+    "id": 389,
+    "ParentId": 388,
+    "Name": "Halle 9"
+  },
+  {
+    "id": 433,
+    "ParentId": 2,
+    "Name": "Halle 9"
+  }
+
+ 
+  ],
+  "categories": [
+  {
+    "id": 1,
+    "Name": "A - Kauf"
+  },
+  {
+    "id": 2,
+    "Name": "L - Leasing"
+  },
+  {
+    "id": 3,
+    "Name": "X - Fremd"
+  }
+],
+  
+ "inventories": [
+  {
+    "id": 349171,
+    "Description": "Monitor",
+    "EquipmentTypeId": 2,
+    "EquipmentType": "IT",
+    "ParentId": null,
+    "LocId": 450,
+    "EquId": "",
+    "ShutDownDate": null,
+    "CatId": null,
+    "DeliveryDate": null,
+    "User": "",
+    "StatusId": 6,
+    "Status": "Aktiv",
+    "NextAction": "",
+    "NextActionDate": null,
+    "GeoId": null,
+    "Manufacturer": "Promethean",
+    "SerialNumber": "A902032117",
+    "TypeDescription": "75\"",
+    "PlanningPlant": "",
+    "PartNumber": "",
+    "IdentNum": "",
+    "Plant": "",
+    "Building": "7",
+    "Location": "",
+    "Room": "",
+    "IsLocDetail": "N",
+    "HeliosGuid": "",
+    "Position": "",
+    "DataSource": "HELIOS",
+    "DataSourceId": 2,
+    "Responsible": "Lutz Kitzmann",
+    "Department": "",
+    "HtzNumber": "",
+    "YearOfConstruction": null,
+    "CostCenter": "",
+    "WayId": "",
+    "Remark": "",
+    "AssetNumber": 40388723,
+    "Maintainer": "",
+    "MaintainerEmail": "",
+    "PropertyNumber": "",
+    "MaterialNumber": "",
+    "CoOrder": null,
+    "RequestNumber": "",
+    "OrderNumber": "",
+    "Manufacture": "",
+    "CriticalityId": null,
+    "InspectionInterval": "",
+    "QRStatus": "",
+    "LastUpdated": null
+  },
+   {
+    "id": 349172,
+    "Description": "Monitor",
+    "EquipmentTypeId": 2,
+    "EquipmentType": "IT",
+    "ParentId": null,
+    "LocId": 434,
+    "EquId": "",
+    "ShutDownDate": null,
+    "CatId": null,
+    "DeliveryDate": null,
+    "User": "",
+    "StatusId": 6,
+    "Status": "Aktiv",
+    "NextAction": "",
+    "NextActionDate": null,
+    "GeoId": null,
+    "Manufacturer": "Promethean",
+    "SerialNumber": "A902032117",
+    "TypeDescription": "75\"",
+    "PlanningPlant": "",
+    "PartNumber": "",
+    "IdentNum": "",
+    "Plant": "",
+    "Building": "7",
+    "Location": "",
+    "Room": "",
+    "IsLocDetail": "N",
+    "HeliosGuid": "",
+    "Position": "",
+    "DataSource": "HELIOS",
+    "DataSourceId": 2,
+    "Responsible": "Lutz Kitzmann",
+    "Department": "",
+    "HtzNumber": "",
+    "YearOfConstruction": null,
+    "CostCenter": "",
+    "WayId": "",
+    "Remark": "",
+    "AssetNumber": 40388723,
+    "Maintainer": "",
+    "MaintainerEmail": "",
+    "PropertyNumber": "",
+    "MaterialNumber": "",
+    "CoOrder": null,
+    "RequestNumber": "",
+    "OrderNumber": "",
+    "Manufacture": "",
+    "CriticalityId": null,
+    "InspectionInterval": "",
+    "QRStatus": "",
+    "LastUpdated": null
+  }
+],
+  "equipmentTypes": [
+  {
+    "id": 1,
+    "Name": "FEMI"
+  },
+  {
+    "id": 2,
+    "Name": "IT"
+  }
+],
+  "femiCategories": [{
+  "id": 70,
+  "Name": "Versorgungswagen"
+},
+{
+  "id": 72,
+  "Name": "Belüftungsanlagen"
+},
+{
+  "id": 74,
+  "Name": "Desinfektionsgeräte"
+},
+{
+  "id": 76,
+  "Name": "Flugzeugschlepper"
+},
+{
+  "id": 78,
+  "Name": "Flurförderfahrzeuge"
+},
+{
+  "id": 80,
+  "Name": "Steiger"
+},
+{
+  "id": 82,
+  "Name": "Klima- & Kühlanlagen"
+},
+{
+  "id": 84,
+  "Name": "Bodenstromversorgung"
+},
+{
+  "id": 86,
+  "Name": "Kabinendrucktestanlagen"
+},
+{
+  "id": 88,
+  "Name": "Treppen und Bühnen"
+},
+{
+  "id": 90,
+  "Name": "Steuerstand"
+},
+{
+  "id": 92,
+  "Name": "Abdeckungen für Sensoren"
+},
+{
+  "id": 94,
+  "Name": "Cowlingpumpen"
+},
+{
+  "id": 96,
+  "Name": "Fahrwerkheber"
+},
+{
+  "id": 98,
+  "Name": "Mess- und Prüfmittel"
+},
+{
+  "id": 100,
+  "Name": "Transportmaterial"
+},
+{
+  "id": 102,
+  "Name": "Zurrgeschirr"
+},
+{
+  "id": 104,
+  "Name": "Sonstiges"
+}
+]
+}
