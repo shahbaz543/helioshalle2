@@ -1,38 +1,57 @@
 {
-  "posts": [
-  {
-    "id": 450,
-    "ParentId": 2,
-    "Name": "Halle 9"
-  },
-  {
-    "id": 434,
-    "ParentId": 433,
-    "Name": "Halle 9"
-  },
-  {
-    "id": 373,
-    "ParentId": 2,
-    "Name": "Halle 9"
-  },
-  {
-    "id": 388,
-    "ParentId": 2,
-    "Name": "Halle 9"
-  },
-  {
-    "id": 389,
-    "ParentId": 388,
-    "Name": "Halle 9"
-  },
-  {
-    "id": 433,
-    "ParentId": 2,
-    "Name": "Halle 9"
-  }
-
- 
-  ],
+  "InvbyId": {
+  "id": 349171,
+  "Description": "Ground Power Nr.22",
+  "EquipmentTypeId": 1,
+  "EquipmentType": "FEMI",
+  "ParentId": null,
+  "LocId": 435,
+  "EquId": "11000448",
+  "ShutDownDate": null,
+  "CatId": 84,
+  "DeliveryDate": null,
+  "User": "",
+  "StatusId": 1,
+  "Status": "Verfügbar",
+  "NextAction": "",
+  "NextActionDate": "2019-11-01T00:00:00",
+  "GeoId": null,
+  "Manufacturer": "Piller",
+  "SerialNumber": "E202 600075",
+  "TypeDescription": "",
+  "PlanningPlant": "",
+  "PartNumber": "",
+  "IdentNum": "",
+  "Plant": "",
+  "Building": "N/A",
+  "Location": "",
+  "Room": "",
+  "IsLocDetail": "N",
+  "HeliosGuid": "",
+  "Position": "",
+  "DataSource": "HELIOS",
+  "DataSourceId": 2,
+  "Responsible": "O. Voß",
+  "Department": "BSLAFS",
+  "HtzNumber": "D120-77816-000L9600-01A00",
+  "YearOfConstruction": 1991,
+  "CostCenter": "370430",
+  "WayId": "X2D4FA",
+  "Remark": "",
+  "AssetNumber": 40064980,
+  "Maintainer": "",
+  "MaintainerEmail": "",
+  "PropertyNumber": "",
+  "MaterialNumber": "",
+  "CoOrder": null,
+  "RequestNumber": "",
+  "OrderNumber": "",
+  "Manufacture": "",
+  "CriticalityId": null,
+  "InspectionInterval": "",
+  "QRStatus": "",
+  "LastUpdated": null
+},
   "categories": [
   {
     "id": 1,
