@@ -1,5 +1,5 @@
 {
-  "InvbyId": {
+  "InvbyId": [{
   "id": 349171,
   "Description": "Ground Power Nr.22",
   "EquipmentTypeId": 1,
@@ -51,7 +51,7 @@
   "InspectionInterval": "",
   "QRStatus": "",
   "LastUpdated": null
-},
+}],
   "categories": [
   {
     "id": 1,
