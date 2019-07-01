@@ -185,77 +185,34 @@
     "Name": "IT"
   }
 ],
-  "femiCategories": [{
-  "id": 70,
-  "Name": "Versorgungswagen"
-},
-{
-  "id": 72,
-  "Name": "Belüftungsanlagen"
-},
-{
-  "id": 74,
-  "Name": "Desinfektionsgeräte"
-},
-{
-  "id": 76,
-  "Name": "Flugzeugschlepper"
-},
-{
-  "id": 78,
-  "Name": "Flurförderfahrzeuge"
-},
-{
-  "id": 80,
-  "Name": "Steiger"
-},
-{
-  "id": 82,
-  "Name": "Klima- & Kühlanlagen"
-},
-{
-  "id": 84,
-  "Name": "Bodenstromversorgung"
-},
-{
-  "id": 86,
-  "Name": "Kabinendrucktestanlagen"
-},
-{
-  "id": 88,
-  "Name": "Treppen und Bühnen"
-},
-{
-  "id": 90,
-  "Name": "Steuerstand"
-},
-{
-  "id": 92,
-  "Name": "Abdeckungen für Sensoren"
-},
-{
-  "id": 94,
-  "Name": "Cowlingpumpen"
-},
-{
-  "id": 96,
-  "Name": "Fahrwerkheber"
-},
-{
-  "id": 98,
-  "Name": "Mess- und Prüfmittel"
-},
-{
-  "id": 100,
-  "Name": "Transportmaterial"
-},
-{
-  "id": 102,
-  "Name": "Zurrgeschirr"
-},
-{
-  "id": 104,
-  "Name": "Sonstiges"
-}
+  "FemiStatus": [
+  {
+    "Id": 1,
+    "Name": "Verfügbar"
+  },
+  {
+    "Id": 2,
+    "Name": "In Reparatur"
+  },
+  {
+    "Id": 4,
+    "Name": "TÜV Prüfung"
+  },
+  {
+    "Id": 26,
+    "Name": "Verlagert"
+  },
+  {
+    "Id": 27,
+    "Name": "Verliehen"
+  },
+  {
+    "Id": 28,
+    "Name": "Verschrottung"
+  },
+  {
+    "Id": 29,
+    "Name": "Verlust"
+  }
 ]
 }
